@@ -1,1 +1,0 @@
-Node.js, Express & MySQL Tutorial - Build a Simple FullStack App
