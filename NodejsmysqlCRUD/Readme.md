@@ -1,7 +1,7 @@
 
 # **Node.js Express.js and MySQL CRUD Operation**
 
-# This is a Node.js project that utilizes the Express.js framework and MySQL as the database for performing CRUD (Create, Read, Update, Delete) operations. The project provides an API for managing data in a database through HTTP endpoints.
+## This is a Node.js project that utilizes the Express.js framework and MySQL as the database for performing CRUD (Create, Read, Update, Delete) operations. The project provides an API for managing data in a database through HTTP endpoints.
 
 # **Features**
 
