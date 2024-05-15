@@ -1,7 +1,7 @@
 
 # **Node.js Express.js and MySQL CRUD Operation**
 
-## This is a Node.js project that utilizes the Express.js framework and MySQL as the database for performing CRUD (Create, Read, Update, Delete) operations. The project provides an API for managing data in a database through HTTP endpoints.
+ This is a Node.js project that utilizes the Express.js framework and MySQL as the database for performing CRUD (Create, Read, Update, Delete) operations. The project provides an API for managing data in a database through HTTP endpoints.
 
 # **Features**
 
@@ -28,9 +28,9 @@ To install and run the Node.js Express.js and MySQL CRUD Operation project, foll
 2. Open a terminal or command prompt and navigate to the project's directory.
 
 3. Install the project dependencies by running the command:
-
-   ## **npm install**
-
+```
+   **npm install**
+```
 4. Configure the MySQL database connection:
 - Open the **config/db.config.js** file.
 - Update the MySQL database configuration properties (host, user, password, database) to match your MySQL server settings.
@@ -39,9 +39,9 @@ To install and run the Node.js Express.js and MySQL CRUD Operation project, foll
 - Execute the SQL script provided in the **database/db.sql** file to create the necessary table structure.
 
 6. Start the application by running the command:
-
-    ## **npm start**
-
+```
+    **npm start**
+```
 7. The API will be accessible at **http://localhost:3000.** You can use tools like Postman or a web browser to interact with the API endpoints.
 
 ## **Home Page**
