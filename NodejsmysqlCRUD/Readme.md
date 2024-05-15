@@ -29,7 +29,7 @@ To install and run the Node.js Express.js and MySQL CRUD Operation project, foll
 
 3. Install the project dependencies by running the command:
 ```
-   **npm install**
+   npm install
 ```
 4. Configure the MySQL database connection:
 - Open the **config/db.config.js** file.
@@ -40,7 +40,7 @@ To install and run the Node.js Express.js and MySQL CRUD Operation project, foll
 
 6. Start the application by running the command:
 ```
-    **npm start**
+   npm start
 ```
 7. The API will be accessible at **http://localhost:3000.** You can use tools like Postman or a web browser to interact with the API endpoints.
 
